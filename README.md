@@ -11,6 +11,7 @@ code repo for jhipster creations
 
 ![image](https://github.com/user-attachments/assets/5817916e-3879-4871-9da2-d5393e0c051d)
 
-![image](https://github.com/user-attachments/assets/be4cf7fd-3823-49dc-9d6d-6d12c2cdd04c)
+![image](https://github.com/user-attachments/assets/9c274f20-8863-4137-aa69-3f75ed7b1139)
 
-![image](https://github.com/user-attachments/assets/9dba1dab-aab9-481f-9ccc-00f0a36d5ba3)
+![image](https://github.com/user-attachments/assets/b5e711f3-e61a-4e5f-840f-2892f162a6a8)
+
